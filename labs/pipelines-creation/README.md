@@ -85,7 +85,7 @@ This project demonstrates the automated Continues Integration, Continues deliver
    tkn p start nodejs-build -w name=shared,volumeClaimTemplateFile=volume-template.yaml
    ```
 
-4. Interactivly watch the pipeline tasks in thier progress to push the final image to the quay registry with repository name called 'exchange'
+4. Interactivly watch the pipeline tasks in thier progress to build and push the final image to the quay registry at repository name called 'exchange'
     
      ![pipeline](./screens/pipeline.png)
 
