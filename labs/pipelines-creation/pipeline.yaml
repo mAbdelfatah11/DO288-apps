@@ -100,7 +100,7 @@ spec:
       runAfter:
         - fetch-repository
 
-    - name: build-image
+    - name: build-push-image
       taskRef:
         name: buildah
         kind: ClusterTask
