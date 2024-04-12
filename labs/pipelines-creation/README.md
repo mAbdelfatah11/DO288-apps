@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project demonstrates the automated Continues Integration, Continues deivery of a Node.js application on RedHat Openshift using openshift pipelines. It's a great starter project for those practicing devops on openshift.
+This project demonstrates the automated Continues Integration, Continues delivery of a Node.js application on RedHat Openshift using openshift pipelines. It's a great starter project for those practicing devops on openshift.
   
   ![pipeline](./screens/pipeline.png)
 
